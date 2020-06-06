@@ -279,6 +279,14 @@
     "language": "python",
     "status": "pass"
 }, {
+    "file": "Alex-Nmesoma.js",
+    "output": "Hello World, this is Alex Nmesoma with HNGi7 ID  HNG-06458  using Javascript for stage 2 task",
+    "name": "Alex Nmesoma",
+    "id": null,
+    "email": "alexmmesoma42@gmail.com",
+    "language": null,
+    "status": "fail"
+}, {
     "file": "Alexander-Ugwuanyi.js",
     "output": "Hello World, this is Alexander Ugwuanyi with HNGi7 ID HNG-02522  using JavaScript for stage 2 task",
     "name": "Alexander Ugwuanyi",
@@ -392,12 +400,12 @@
     "status": "pass"
 }, {
     "file": "Ayoola-Fashina.js",
-    "output": "",
+    "output": "Hello World, this is Ayoola Fashina with HNGi7 ID HNG-00975  using javascript for stage 2 task",
     "name": "Ayoola Fashina",
-    "id": null,
-    "email": "",
-    "language": null,
-    "status": "fail"
+    "id": "HNG-00975",
+    "email": "ayoolafashina@gmail.com",
+    "language": "javascript",
+    "status": "pass"
 }, {
     "file": "Ayotunde-Oyekan.js",
     "output": "Hello World, this is Ayotunde Oyekan with HNGi7 ID HNG-00437  using JavaScript for stage 2 task",
@@ -783,6 +791,14 @@
     "language": "PHP",
     "status": "pass"
 }, {
+    "file": "Emmanuel-Abutu.js",
+    "output": "Hello World, this is Emmanuel Abutu with HNGi7 ID HNG-03705  using Javascript for stage 2 task",
+    "name": "Emmanuel Abutu",
+    "id": "HNG-03705",
+    "email": "abutue10@gmail.com",
+    "language": "Javascript",
+    "status": "pass"
+}, {
     "file": "Emmanuel-Aliyu.php",
     "output": "Hello World, this is Emmanuel Aliyu with HNGi7 ID HNG-02609  using php for stage 2 task.",
     "name": "Emmanuel Aliyu",
@@ -830,14 +846,6 @@
     "email": "emmanueloluwatobi2000@gmail.com",
     "language": "Python",
     "status": "pass"
-}, {
-    "file": "Emmanuel-abutu.js",
-    "output": "Hello\u00a0World,\u00a0this\u00a0is\u00a0Emmanuel abutu\u00a0with\u00a0HNGi7\u00a0ID\u00a0HNG-03705\u00a0and\u00a0email\u00a0 \u00a0using\u00a0Javascript\u00a0for\u00a0stage\u00a02\u00a0task",
-    "name": "Emmanuel abutu",
-    "id": null,
-    "email": "abutue10@gmail.com",
-    "language": null,
-    "status": "fail"
 }, {
     "file": "Emmanuella-Abah.js",
     "output": "Hello World, this is Emmanuella Abah with HNGi7 ID HNG-01758  using JavaScript for stage 2 task.",
@@ -1240,10 +1248,10 @@
     "status": "pass"
 }, {
     "file": "Kevin-Izuchukwu.js",
-    "output": "Hello World, this is Kevin Izuchukwu with the HNGi7 ID HNG-04697 using Javascript for stage 2 task",
+    "output": "Hello World, this is Kevin Izuchukwu with the HNGi7 ID HNG-04697  using Javascript for stage 2 task",
     "name": "Kevin Izuchukwu",
     "id": null,
-    "email": "",
+    "email": "kevinfizu@gmail.com",
     "language": null,
     "status": "fail"
 }, {
@@ -1368,12 +1376,12 @@
     "status": "fail"
 }, {
     "file": "Michael-Ashi.py",
-    "output": "Hello World, this is Michael Ashi with HNGi7 ID HNG-01089 using python for stage 2 task",
+    "output": "Hello World, this is Michael Ashi with HNGi7 ID HNG-01089  using Python for stage 2 task",
     "name": "Michael Ashi",
-    "id": null,
+    "id": "HNG-01089",
     "email": "ashimichaelashi@gmail.com",
-    "language": null,
-    "status": "fail"
+    "language": "Python",
+    "status": "pass"
 }, {
     "file": "Mohammed-Kabir-Hussaini.php",
     "output": "Hello world, this is Mohammed Kabir Hussaini with HNGi7 ID HNG-00759  using php for stage 2 task",
@@ -1487,6 +1495,14 @@
     "language": "PHP",
     "status": "pass"
 }, {
+    "file": "Nwosu-Madueke-Christopher.py",
+    "output": "Hello World, this is Nwosu-Madueke Christopher with HNGi7 ID HNG-06465  using python for stage 2 task",
+    "name": "Nwosu Madueke Christopher",
+    "id": "HNG-06465",
+    "email": "maduekechris65@gmail.com",
+    "language": "python",
+    "status": "pass"
+}, {
     "file": "Obadimu-Ismail.js",
     "output": "Hello World, this is Ismail Obadimu with HNGi7 ID HNG-06578  using Javascript for stage 2 task",
     "name": "Obadimu Ismail",
@@ -1568,7 +1584,7 @@
     "status": "pass"
 }, {
     "file": "Okwuobi-Ifeanyi.js",
-    "output": "Hello World, this is Ifeanyi Fredrick Okwuobi with HNGi7 ID: HNG-03608  and i am using JavaScript for stage 2 task",
+    "output": "Hello World, this is Ifeanyi Fredrick Okwuobi with HNGi7 ID HNG-03608  and i am using JavaScript for stage 2 task",
     "name": "Okwuobi Ifeanyi",
     "id": null,
     "email": "fredrickokwuobi@gmail.com",
@@ -1759,14 +1775,6 @@
     "language": "Javascript",
     "status": "pass"
 }, {
-    "file": "Omotosho-Richard.js",
-    "output": "Hello World, this is Richard Omotosho with HNGi7 ID HNG-03176  using JavaScript for the stage 2 task",
-    "name": "Omotosho Richard",
-    "id": null,
-    "email": "ricardiomotosho@gmail.com",
-    "language": null,
-    "status": "fail"
-}, {
     "file": "Onah-Tochukwu.js",
     "output": "Hello World, this is Onah Tochukwu with HNGi7 ID HNG-02371  using javascript for stage 2 task",
     "name": "Onah Tochukwu",
@@ -1903,14 +1911,6 @@
     "language": "JavaScript",
     "status": "pass"
 }, {
-    "file": "Ponmile.js",
-    "output": "Hello World, this is ${name} with ID ${hng_id} ${email} using ${language} for stage 2 task",
-    "name": "Ponmile",
-    "id": null,
-    "email": "",
-    "language": null,
-    "status": "fail"
-}, {
     "file": "Pranati.py",
     "output": "Hello World, this is Pranati Shete with HNGi7 ID HNG-01345  using python for stage 2 task",
     "name": "Pranati",
@@ -1997,6 +1997,14 @@
     "id": "HNG-02119",
     "email": "riliwanhazzan@gmail.com",
     "language": "JavaScript",
+    "status": "pass"
+}, {
+    "file": "Saba-Saeed.java",
+    "output": "Hello World, this is Saba Saeed with HNGi7 ID HNG-06812  using Java for stage 2 task",
+    "name": "Saba Saeed",
+    "id": "HNG-06812",
+    "email": "sabasaeed408@gmail.com",
+    "language": "Java",
     "status": "pass"
 }, {
     "file": "Samuel-Ajayi.js",
@@ -2263,14 +2271,6 @@
     "language": "JavaScript",
     "status": "pass"
 }, {
-    "file": "Yusuf-Bakare",
-    "output": "",
-    "name": "Yusuf Bakare",
-    "id": null,
-    "email": "",
-    "language": null,
-    "status": "fail"
-}, {
     "file": "Yusuf-Taiwo.js",
     "output": "Hello World, this is Yusuf Taiwo with HNGi7 ID HNG-04777  using JavaScript for stage 2 task",
     "name": "Yusuf Taiwo",
@@ -2310,14 +2310,6 @@
     "email": "momohabdullah20@gmail.com",
     "language": "PHP",
     "status": "pass"
-}, {
-    "file": "abdullahi-aliyu.js",
-    "output": "Hello World, this is Abdullahi Aliyu with HNGi7 ID HNG-01827 using JavaScript for stage 2 task.",
-    "name": "abdullahi aliyu",
-    "id": null,
-    "email": "abdoulfurya@gmail.com",
-    "language": null,
-    "status": "fail"
 }, {
     "file": "abiodun-jacob.py",
     "output": "Hello World, this is Abiodun Jacob with HNGi7 ID HNG-02431  using python for stage 2 task",
@@ -3247,6 +3239,14 @@
     "language": "Python",
     "status": "pass"
 }, {
+    "file": "joseph-roland.py",
+    "output": "Hello World, this is Joseph Roland with HNGi7 ID HNG-06046  using python for stage 2 task",
+    "name": "joseph roland",
+    "id": "HNG-06046",
+    "email": "wordofwisdom_2@yahoo.com",
+    "language": "python",
+    "status": "pass"
+}, {
     "file": "joshua-erondu.js",
     "output": "Hello World, this is Joshua Erondu with HNGi7 ID HNG-00077  using javascript for Stage 2 task",
     "name": "joshua erondu",
@@ -4088,12 +4088,12 @@
     "status": "pass"
 }, {
     "file": "tola-shobowale.js",
-    "output": "Hello World, this is Tola Shobowale with HNGi7 ID HNG 00272  using javascript for stage 2 task",
+    "output": "Hello World, this is Tola Shobowale with HNGi7 ID HNG-00272  using JavaScript for stage 2 task",
     "name": "tola shobowale",
-    "id": null,
+    "id": "HNG-00272",
     "email": "shobowaletola@gmail.com",
-    "language": null,
-    "status": "fail"
+    "language": "JavaScript",
+    "status": "pass"
 }, {
     "file": "toluwaleke-ogidan.py",
     "output": "Hello world, this is ogidan toluwaleke with HNGi7 ID HNG-03053  using python for stage 2 task",
